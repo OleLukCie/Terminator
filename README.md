@@ -1,5 +1,6 @@
 # Terminator
-Terminator
+https://www.bilibili.com/video/BV1vWcgz6EoF
+https://www.bilibili.com/video/BV1JsASzcEWR
 <img width="1762" height="1064" alt="FPV" src="https://github.com/user-attachments/assets/9dc5b67e-07f2-4606-94a3-288fc09bccad" />
 <img width="2250" height="1500" alt="BoxF1_curve" src="https://github.com/user-attachments/assets/945c8b6d-8703-472d-8fc7-19023a259b2a" />
 <img width="2250" height="1500" alt="BoxP_curve" src="https://github.com/user-attachments/assets/faba4e7c-c160-4ed0-a1b5-dc5c381e2990" />
