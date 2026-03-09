@@ -8,7 +8,6 @@
 ---
 
 ![BoxF1_curve](https://github.com/user-attachments/assets/945c8b6d-8703-472d-8fc7-19023a259b2a)
-![BoxP_curve](https://github.com/user-attachments/assets/faba4e7c-c160-4ed0-a1b5-dc381e2990)
 ![BoxPR_curve](https://github.com/user-attachments/assets/735be8d4-363a-4d18-af07-e3ef24259613)
 ![BoxR_curve](https://github.com/user-attachments/assets/96cb79f7-da4b-42a2-b740-a00da814c2d7)
 
